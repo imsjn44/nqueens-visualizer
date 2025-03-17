@@ -8,8 +8,9 @@ This is a React-based visualization tool for the N-Queens problem, built using V
 - **Built with React + Vite**: Fast and lightweight frontend performance.
 
 
+DEMO
 
-Screenshot
+
 ![Demo](https://github.com/user-attachments/assets/21f096e9-aa88-46f0-b7b3-653647896190)
 
 
