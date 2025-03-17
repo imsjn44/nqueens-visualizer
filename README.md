@@ -37,8 +37,7 @@ Then open **`http://localhost:5173/`** in your browser.
 - The visualization updates every 500ms to show the step-by-step solution.
 - A queen (`♛`) is placed only if it is safe (i.e., no other queen attacks it).
 
-## 📸 Screenshots
-(Include screenshots of the visualization in action)
+
 
 ## 🛠️ Technologies Used
 - **React**: Component-based UI
